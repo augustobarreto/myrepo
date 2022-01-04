@@ -15,7 +15,7 @@ I’ve spent the last years working on the National Brazilian Institute of Stati
 
 During my career, besides data science skills, I had the chance to develop solid software engineering skills and learned good development practices. 
 
-I came from Salvador ,one of the most amazing cities in the world. I am enthusiastic about sports, traveling and cooking, especially when my friends are around. 
+I came from [Salvador](https://en.wikipedia.org/wiki/Salvador,_Bahia) ,one of the most amazing cities in the world. I am enthusiastic about sports, traveling and cooking, especially when my friends are around. 
 
 You can check my CV here or contact me on [LinkedIn](https://www.linkedin.com/in/augustosbarreto/).
 
