@@ -17,6 +17,6 @@ During my career, besides data science skills, I had the chance to develop solid
 
 I came from [Salvador](https://en.wikipedia.org/wiki/Salvador,_Bahia) ,one of the most amazing cities in the world. I am enthusiastic about sports, traveling and cooking, especially when my friends are around. 
 
-You can check my CV here or contact me on [LinkedIn](https://www.linkedin.com/in/augustosbarreto/).
+You can check my CV [here](../assets/CV_Jan22.pdf) or contact me on [LinkedIn](https://www.linkedin.com/in/augustosbarreto/).
 
 
